@@ -1,10 +1,8 @@
-# Send SMS with React and Twilio
+# Send SMS with React
 
-This is an example of sending SMS using React and Twilio. It consists of a `SMSForm` component that communicates with a server endpoint to [send SMS messages via the Twilio REST API](https://www.twilio.com/docs/sms/send-messages).
+This is an example of sending SMS using React and Twilio. 
 
-To see how to build the project yourself, check out the blog post [How to send an SMS from React with Twilio](https://www.twilio.com/blog/send-an-sms-react-twilio).
-
-This project was created from the [react-express-starter project](https://github.com/philnash/react-express-starter) and includes a React front end and an Express server.
+It consists of a `SMSForm` component that communicates with a server endpoint to [send SMS messages via the Twilio REST API](https://www.twilio.com/docs/sms/send-messages).
 
 ## Running the project
 
